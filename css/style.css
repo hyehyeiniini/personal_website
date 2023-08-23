@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Akira-Expanded';
+    src: url("../font/Akira-Expanded-Demo.woff") format("woff");
+}
+
+h1, h3 {
+    font-family: 'Akira-Expanded';
+}
+
+#emphasis {
+    font-size: 150px;
+}
+
+.feature-icon {
+    background-color: rgb(249, 126, 126);
+}
+
+.rectangle {
+    width: 50px;
+    height: 10px;
+    background-color: rgb(249, 126, 126);;
+}
